@@ -2,6 +2,6 @@
 
 # HELVE(AVR) | Multispecialist Production Studio 
 
-**HELVE(AVR)** is a multispecialist production studio basing its operations on the 3 foundational pillars of creative categories: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or tool. All system shells are named and structured after specific parts of such an object.
+**HELVE(AVR)** is a multispecialist production studio basing its operations on 3 pillars of creativity: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or a tool.
 
 
