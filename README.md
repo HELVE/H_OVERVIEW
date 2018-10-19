@@ -10,19 +10,13 @@
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-(Audio Production Photo Shot)
-
 **Audio Division** Description
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-(Visual Production Photo Shot)
-
 **Visual Division** Description
 
 ![](assets/readme_visuals/example-dual-gallery.png)
-
-(Research Photo Shot)
 
 **Research Division** Description
 
