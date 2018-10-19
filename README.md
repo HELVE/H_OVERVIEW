@@ -1,24 +1,9 @@
 ![](https://user-images.githubusercontent.com/2768053/45264520-3d0c7a00-b43e-11e8-899c-790441ae68eb.png)
 
+<a name="intro"></a>
 # HELVE<sup>(AVR)</sup> | Multispecialist Production Studio 
 
 **HELVE(AVR)** is a multispecialist production studio basing its operations on 3 pillars of creativity: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or a tool.
-
-![Project Banner](/assets/readme_visuals/example-banner.png)
-
-<a name="intro"></a>
-# PROJECT NAME - TAGLINE
-Description.
-
-![GALLERY QUAD](/assets/readme_visuals/example-dual-gallery.png)
-
-Description.
-
-![GALLERY QUAD](/assets/readme_visuals/example-triple-gallery.png)
-
-Description.
-
-![GALLERY QUAD](/assets/readme_visuals/example-quad-gallery.png)
 
 ### Table of Contents
 1. [Introduction.](#intro)
