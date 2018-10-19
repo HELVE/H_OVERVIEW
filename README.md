@@ -3,7 +3,7 @@
 <a name="overview"></a>
 # HELVE<sup>AVR</sup> | Multispecialist Production Studio 
 
-**HELVE<sup>AVR</sup>** is a multispecialist production studio basing its operations on 3 pillars of creativity: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or a tool. HELVE<sup>AVR</sup> at its core uses the Reinforced Trisight methodology, which includes usage of custom-tailored microtools both on a wide scale (HelveOS) as well as project-specific scale.
+**HELVE<sup>AVR</sup>** is a multispecialist production studio basing its operations on 3 pillars of creativity: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or a tool. HELVE<sup>AVR</sup> at its core uses the Reinforced Trisight methodology, which includes usage of custom-tailored microtools both on a wide scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as project-specific scale.
 
 <a name="divisions"></a>
 ### Studio Subdivisions
