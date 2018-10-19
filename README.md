@@ -10,15 +10,15 @@
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Audio Division** Description
+**Audio Subdivision** Description
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Visual Division** Description
+**Visual Subdivision** Description
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Research Division** Description
+**Research Subdivision** Description
 
 ### Table of Contents
 1. [Overview.](#overview)
