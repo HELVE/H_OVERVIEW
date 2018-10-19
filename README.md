@@ -1,27 +1,28 @@
 ![](https://user-images.githubusercontent.com/2768053/45264520-3d0c7a00-b43e-11e8-899c-790441ae68eb.png)
 
-<a name="intro"></a>
+<a name="overview"></a>
 # HELVE<sup>AVR</sup> | Multispecialist Production Studio 
 
 **HELVE<sup>AVR</sup>** is a multispecialist production studio basing its operations on 3 pillars of creativity: Audio, Visual and Research. Etymologic meaning of the word *helve* constitutes a handle of a weapon or a tool.
 
-### Studio Divisions
+<a name="divisions"></a>
+### Studio Subdivisions
 
-(Audio Production Shot)
+(Audio Production Photo Shot)
 
 **Audio Division** Description
 
-(Visual Production Shot)
+(Visual Production Photo Shot)
 
 **Visual Division** Description
 
-(Research Shot)
+(Research Photo Shot)
 
 **Research Division** Description
 
 ### Table of Contents
 1. [Overview.](#overview)
-2. [Divisions.](#divisions)
+2. [Subdivisions.](#divisions)
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
 5. [Installation and usage guide.](#install)
