@@ -25,11 +25,10 @@
 2. [Subdivisions.](#divisions)
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
-5. [Installation and usage guide.](#install)
-6. [Contributing.](#contribute)
-7. [License.](#license)
-8. [Credits.](#credits)
-9. [Commit Glyphs.](#glyphs)
+5. [Contributing.](#contribute)
+6. [License.](#license)
+7. [Team.](#team)
+8. [Commit Glyphs.](#glyphs)
 
 <a name="issues"></a>
 ### Issues
@@ -41,15 +40,6 @@
 + Idea_02
 + Idea_03
 
-<a name="install"></a>
-### Installation and Usage Guide
-Include basic necessary components. Gifs if required.
-```
-1. 
-2. 
-3. 
-```
-
 <a name="contribute"></a>
 ### Contributing
 Insert project contribution rules if allowed.
@@ -58,7 +48,7 @@ Insert project contribution rules if allowed.
 ### License
 Insert project licensing options if there are any.
 
-<a name="credits"></a>
+<a name="team"></a>
 ### Team
 
 + mothnode
