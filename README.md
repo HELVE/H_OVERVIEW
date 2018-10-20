@@ -33,7 +33,7 @@
 
 <a name="issues"></a>
 ### Issues
-+ ⎔ [Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
++ ⎔ [#1 Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
 
 <a name="icebox"></a>
 ### Icebox
