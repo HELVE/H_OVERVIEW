@@ -25,8 +25,6 @@
 2. [Subdivisions.](#divisions)
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
-5. [Contributing.](#contribute)
-6. [License.](#license)
 7. [Team.](#team)
 8. [Commit Glyphs.](#glyphs)
 
@@ -40,14 +38,6 @@
 + Idea_01
 + Idea_02
 + Idea_03
-
-<a name="contribute"></a>
-### Contributing
-Insert project contribution rules if allowed.
-
-<a name="license"></a>
-### License
-Insert project licensing options if there are any.
 
 <a name="team"></a>
 ### Team
