@@ -31,17 +31,9 @@
 8. [Credits.](#credits)
 9. [Commit Glyphs.](#glyphs)
 
-<a name="features"></a>
-### Features
-+ Feature_01
-+ Feature_02
-+ Feature_03
-
 <a name="issues"></a>
 ### Issues
-+ Issue_01
-+ Issue_02
-+ Issue_03
++ ⎔ [Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
 
 <a name="icebox"></a>
 ### Icebox
@@ -67,8 +59,9 @@ Insert project contribution rules if allowed.
 Insert project licensing options if there are any.
 
 <a name="credits"></a>
-### Credits
-Insert project creator entities, contributors and their respective presence links.
+### Team
+
++ mothnode
 
 <a name="glyphs"></a>
 ### Commit Glyphs
