@@ -26,7 +26,6 @@
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
 7. [Team.](#team)
-8. [Commit Glyphs.](#glyphs)
 
 <a name="issues"></a>
 ### Issues
@@ -43,16 +42,4 @@
 ### Team
 
 + mothnode
-
-<a name="glyphs"></a>
-### Commit Glyphs
-
-+ ☰ Code structure and formatting
-+ ▲ Performance improvements
-+ ⨯ File deletion
-+ ∗ Bugfix
-+ ⬡ New Feature
-+ ⎔ Documentation
-+ ❑ UI design
-+ ⚑ Release
 
