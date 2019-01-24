@@ -22,11 +22,6 @@
 
 ## Helve Operative Guidelines
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
 Alpha | (α) | [Survival] | Self-preservation (health, finances).
