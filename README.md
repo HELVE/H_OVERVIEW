@@ -26,7 +26,7 @@ Directive protocols act as a basis for behavioral priorities and are a direct re
 
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
-Alpha | [α] | [Survival] | **Initiate recovery mode.** Self-preservation is essential. Take care of your health and finances.
+Alpha | [α] | [Survival] | **Initiate recovery mode.** Self-preservation is essential. Take care of your physical and mental health as well as finances.
 Beta | [β] | [Creativity] | **Initiate grind mode.** Mission comes first. Relentlessly create things whatever they may be.
 Gamma | (Γ) | [Clarity] | **Initiate clarity mode.** Trust your intuition but reinforce it with learning, tracking and organization.
 Delta | (Δ) | [Attachment] | **Initiate optimal social variable mode.** Don't attach yourself, don't take or create a life.
