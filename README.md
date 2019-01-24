@@ -29,7 +29,7 @@ Directive Protocols | Tag | Type  | Notes
 (1) Alpha | [α] | [Survival] | **Initiate recovery mode.** Self-preservation is essential. Take care of your physical and mental health as well as finances.
 (2) Beta | [β] | [Knowledge] | **Initiate clarity mode.** Trust your intuition but reinforce it with learning, tracking and organization. 
 (3) Gamma | (Γ) | [Creativity] | **Initiate grind mode.** Mission comes first. Relentlessly create things whatever they may be.
-(4) Delta | (Δ) | [Communication] | **Initiate direct mode.** When in contact with others pass The Three Gates of Speech. Enforce them when possible.
+(4) Delta | (Δ) | [Communication] | **Initiate direct mode.** When in contact with others pass The Three Gates of Speech (truth, necessity, kindness). Enforce them when possible.
 (5) Epsilon | (ε) | [Attachment] | **Initiate optimal social variable mode.** Don't attach yourself, don't take or create a life.
 (6) Omega | (Ω) | [Reset] | **Initiate wipe and burn mode.** In case of mission failure reassess and readapt before starting anew.
 
