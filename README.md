@@ -20,6 +20,15 @@
 
 **Research Subdivision** Description
 
+## Helve Operative Guidelines
+
+Directive Protocol Alpha (α) | [Survival] | Self-preservation. | Health, finances. |
+Directive Protocol Beta (β) | [Creativity] | Mission comes first. | Make things. |
+Directive Protocol Gamma (Γ) | [Clarity] | Trust your gut. | Learn, track, organize. |
+Directive Protocol Delta (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. | | 
+Directive Protocol Epsilon (ε) | [Communication] | Pass The Three Gates of Speech. | |
+Directive Protocol Omega (Ω) | [Reset] | Evac and purge, wipe and burn. | |
+
 ### Table of Contents
 1. [Overview.](#overview)
 2. [Subdivisions.](#divisions)
