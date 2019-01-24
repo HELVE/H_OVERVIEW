@@ -26,12 +26,12 @@ These guidelines act as a basis for behavioral priorities and are a direct refle
 
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
-Alpha | (α) | [Survival] | Self-preservation is essential (health, finances).
+Alpha | α | [Survival] | Self-preservation is essential. Take care of your health and finances.
 Beta | (β) | [Creativity] | Mission comes first (make things).
-Gamma | (Γ) | [Clarity] | Trust your gut but reinforce it with learning, tracking and organization.
+Gamma | (Γ) | [Clarity] | Trust your gut, reinforce it with learning, tracking and organization.
 Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. 
 Epsilon | (ε) | [Communication] | When in contact with other humans pass The Three Gates of Speech.
-Omega | (Ω) | [Reset] | In case of mission failure, reassess and readapt before the wipe and burn.
+Omega | (Ω) | [Reset] | In case of mission failure, reassess before the wipe and burn.
 
 ### Table of Contents
 1. [Overview.](#overview)
