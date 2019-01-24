@@ -27,7 +27,7 @@ Directive protocols act as a basis for behavioral priorities and are a direct re
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
 Alpha | α | [Survival] | Self-preservation is essential. Take care of your health and finances. Recovery mode.
-Beta | (β) | [Creativity] | Mission comes first. Create things whatever it may be.
+Beta | (β) | [Creativity] | Mission comes first. Relentlessly create things whatever they may be.
 Gamma | (Γ) | [Clarity] | Trust your gut but reinforce it with learning, tracking and organization.
 Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. Optimal social status quo.
 Epsilon | (ε) | [Communication] | When in contact with others pass The Three Gates of Speech. Enforce them when possible.
