@@ -28,10 +28,10 @@ Directive Protocols | Tag | Type  | Notes
 ------------ | ------------- | ------------- | -------------
 Alpha | [α] | [Survival] | Initiate recovery mode. Self-preservation is essential. Take care of your health and finances.
 Beta | [β] | [Creativity] | Initiate grind mode. Mission comes first. Relentlessly create things whatever they may be.
-Gamma | (Γ) | [Clarity] | Initiate organization mode. Trust your intuition but reinforce it with learning, tracking and organization.
-Delta | (Δ) | [Attachment] | Initiate return to optimal social status quo. Don't attach yourself, don't take or create a life.
+Gamma | (Γ) | [Clarity] | Initiate clarity mode. Trust your intuition but reinforce it with learning, tracking and organization.
+Delta | (Δ) | [Attachment] | Initiate return to optimal social variables. Don't attach yourself, don't take or create a life.
 Epsilon | (ε) | [Communication] | When in contact with others pass The Three Gates of Speech. Enforce them when possible.
-Omega | (Ω) | [Reset] | In case of mission failure reassess before the wipe and burn. Start anew with a fresh mind.
+Omega | (Ω) | [Reset] | Initiate wipe and burn mode. In case of mission failure reassess and readapt before starting anew.
 
 ### Table of Contents
 1. [Overview.](#overview)
