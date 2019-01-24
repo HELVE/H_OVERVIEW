@@ -30,7 +30,7 @@ Alpha | α | [Survival] | Self-preservation is essential. Take care of your heal
 Beta | (β) | [Creativity] | Mission comes first (make things).
 Gamma | (Γ) | [Clarity] | Trust your gut, reinforce it with learning, tracking and organization.
 Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. 
-Epsilon | (ε) | [Communication] | When in contact with other humans pass The Three Gates of Speech.
+Epsilon | (ε) | [Communication] | When in contact with others pass The Three Gates of Speech.
 Omega | (Ω) | [Reset] | In case of mission failure, reassess before the wipe and burn.
 
 ### Table of Contents
