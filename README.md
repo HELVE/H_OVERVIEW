@@ -24,8 +24,8 @@
 
 Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
 
-Directive Protocols | Tag | Type  | Notes 
------------- | ------------- | ------------- | -------------
+Directive Protocols | Tag | Type
+------------ | ------------- | -------------
 (1) Alpha [α] | [Survival] | **Initiate recovery mode.** <br> Self-preservation is essential. Take care of your physical and mental health as well as finances.
 (2) Beta [β] | [Knowledge] | **Initiate clarity mode.** <br> Trust your intuition but reinforce it with learning, tracking and organization. 
 (3) Gamma (Γ) | [Creativity] | **Initiate grind mode.** <br> Mission comes first. Relentlessly create things whatever they may be.
