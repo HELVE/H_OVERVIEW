@@ -26,12 +26,12 @@ Directive protocols act as a basis for behavioral priorities and are a direct re
 
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
-Alpha | [α] | [Survival] | **Initiate recovery mode.** Self-preservation is essential. Take care of your physical and mental health as well as finances.
-Beta | [β] | [Creativity] | **Initiate grind mode.** Mission comes first. Relentlessly create things whatever they may be.
-Gamma | (Γ) | [Clarity] | **Initiate clarity mode.** Trust your intuition but reinforce it with learning, tracking and organization.
-Delta | (Δ) | [Attachment] | **Initiate optimal social variable mode.** Don't attach yourself, don't take or create a life.
-Epsilon | (ε) | [Communication] | **Initiate direct mode.** When in contact with others pass The Three Gates of Speech. Enforce them when possible.
-Omega | (Ω) | [Reset] | **Initiate wipe and burn mode.** In case of mission failure reassess and readapt before starting anew.
+(1) Alpha | [α] | [Survival] | **Initiate recovery mode.** Self-preservation is essential. Take care of your physical and mental health as well as finances.
+(2) Beta | [β] | [Creativity] | **Initiate grind mode.** Mission comes first. Relentlessly create things whatever they may be.
+(3) Gamma | (Γ) | [Knowledge] | **Initiate clarity mode.** Trust your intuition but reinforce it with learning, tracking and organization.
+(4) Delta | (Δ) | [Communication] | **Initiate direct mode.** When in contact with others pass The Three Gates of Speech. Enforce them when possible.
+(5) Epsilon | (ε) | [Attachment] | **Initiate optimal social variable mode.** Don't attach yourself, don't take or create a life.
+(6) Omega | (Ω) | [Reset] | **Initiate wipe and burn mode.** In case of mission failure reassess and readapt before starting anew.
 
 ### Table of Contents
 1. [Overview.](#overview)
