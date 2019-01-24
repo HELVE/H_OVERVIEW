@@ -22,12 +22,12 @@
 
 ## Helve Operative Guidelines
 
-These guidelines act as a basis for behavioral priorities and are a direct reflection of the values that Helve tries to uplift. Every Helve agent/operative in the field fulfills the directive protocols as needed or required after scheduled self-evaluation. 
+These guidelines act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field fulfills the directive protocols as needed or required after scheduled self-evaluation. 
 
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
 Alpha | (α) | [Survival] | Self-preservation is essential (health, finances).
-Beta | (β) | [Creativity] | Mission comes before anything else (make things).
+Beta | (β) | [Creativity] | Mission comes first (make things).
 Gamma | (Γ) | [Clarity] | Trust your gut (learn, track, organize).
 Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. 
 Epsilon | (ε) | [Communication] | When in contact with other humans pass The Three Gates of Speech.
