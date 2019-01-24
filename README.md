@@ -22,7 +22,7 @@
 
 ## Helve Operative Guidelines
 
-These guidelines act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field fulfills the directive protocols as needed or required after scheduled self-evaluation. 
+Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after scheduled self-evaluation. 
 
 Directive Protocols | Tag | Type  | Notes 
 ------------ | ------------- | ------------- | -------------
