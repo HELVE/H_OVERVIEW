@@ -22,12 +22,19 @@
 
 ## Helve Operative Guidelines
 
-Directive Protocol Alpha (α) | [Survival] | Self-preservation. | Health, finances. |
-Directive Protocol Beta (β) | [Creativity] | Mission comes first. | Make things. |
-Directive Protocol Gamma (Γ) | [Clarity] | Trust your gut. | Learn, track, organize. |
-Directive Protocol Delta (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. | | 
-Directive Protocol Epsilon (ε) | [Communication] | Pass The Three Gates of Speech. | |
-Directive Protocol Omega (Ω) | [Reset] | Evac and purge, wipe and burn. | |
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+Directive Protocols | Tag | Type  | Notes 
+------------ | ------------- | ------------- | -------------
+Alpha | (α) | [Survival] | Self-preservation (health, finances).
+Beta | (β) | [Creativity] | Mission comes first (make things).
+Gamma | (Γ) | [Clarity] | Trust your gut (learn, track, organize).
+Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. 
+Epsilon | (ε) | [Communication] | Pass The Three Gates of Speech.
+Omega | (Ω) | [Reset] | Evac and purge, wipe and burn.
 
 ### Table of Contents
 1. [Overview.](#overview)
