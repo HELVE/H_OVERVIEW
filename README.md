@@ -28,10 +28,10 @@ Directive Protocols | Tag | Type  | Notes
 ------------ | ------------- | ------------- | -------------
 Alpha | (α) | [Survival] | Self-preservation is essential (health, finances).
 Beta | (β) | [Creativity] | Mission comes first (make things).
-Gamma | (Γ) | [Clarity] | Trust your gut (learn, track, organize).
+Gamma | (Γ) | [Clarity] | Trust your gut but reinforce it with learning, tracking and organization.
 Delta | (Δ) | [Attachment] | Don't attach yourself, don't take or create a life. 
 Epsilon | (ε) | [Communication] | When in contact with other humans pass The Three Gates of Speech.
-Omega | (Ω) | [Reset] | Evac and purge, wipe and burn.
+Omega | (Ω) | [Reset] | In case of mission failure, reassess and readapt before the wipe and burn.
 
 ### Table of Contents
 1. [Overview.](#overview)
