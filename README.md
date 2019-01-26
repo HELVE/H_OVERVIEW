@@ -33,6 +33,20 @@ Directive Protocols | Type | Notes
 5 Epsilon (ε) | [Attachment] | **Initiate optimal social variable mode.** <br> Reasses your attachments, don't take or create a life. Create emotional tension only through creativity.
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
 
+## Revenue
+
++ Short Films
++ Editing
++ Video Production
++ Video Art Installations & Products
++ Interactive Installations & Products
++ Projection Mapping
++ VJing
++ Stock Footage
++ Livestream Production
++ Brand Consulting (community building)
++ Software Products (Helve OS)
+
 ### Table of Contents
 1. [Overview.](#overview)
 2. [Subdivisions.](#divisions)
