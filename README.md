@@ -62,8 +62,6 @@ Directive Protocols | Type | Notes
 <a name="icebox"></a>
 ### Icebox
 + Idea_01
-+ Idea_02
-+ Idea_03
 
 <a name="team"></a>
 ### Team
