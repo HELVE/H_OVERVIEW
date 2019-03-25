@@ -1,9 +1,9 @@
 ![](https://user-images.githubusercontent.com/2768053/45264520-3d0c7a00-b43e-11e8-899c-790441ae68eb.png)
 
 <a name="overview"></a>
-# HELVE<sup>AVR</sup> | Multispecialist Production Studio  
+# HELVE<sup>AVR</sup> | Multispecialist Creative House  
 
-**HELVE<sup>AVR</sup>** is a multispecialist production studio basing its activities on 3 pillars of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. HELVE<sup>AVR</sup> uses the Reinforced Trisight methodology, which at its core condones and promotes usage of microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific scale.
+**HELVE<sup>AVR</sup>** is a multispecialist creative house basing its activities within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
 
 <a name="divisions"></a>
 ### Studio Subdivisions
@@ -38,15 +38,17 @@ Directive Protocols | Type | Notes
 ## Revenue
 
 + Short Films
-+ Editing
++ Video Editing
 + Video Production
 + Video Art Installations & Products
 + Interactive Installations & Products
 + Projection Mapping
++ Photogrammetry
 + VJing
-+ Stock Footage
++ Stock Footage (Video/Photo)
 + Livestream Production
-+ Brand Consulting (community building)
++ Brand Consulting 
++ Social Media Marketing (Community Building)
 + Software Products (Helve OS)
 
 ### Table of Contents
@@ -70,5 +72,4 @@ Directive Protocols | Type | Notes
 ### Team
 
 + mothnode
-+ ?
 
