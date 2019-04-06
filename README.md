@@ -3,7 +3,7 @@
 <a name="overview"></a>
 # HELVE<sup>AVR</sup> | Multispecialist Creative House  
 
-**HELVE<sup>AVR</sup>** is a multispecialist creative house basing its activities within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
+**HELVE<sup>AVR</sup>** bases its activities within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
 
 <a name="divisions"></a>
 ### Studio Subdivisions
