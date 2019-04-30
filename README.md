@@ -47,7 +47,7 @@ Directive Protocols | Type | Notes
 + VJing
 + Stock Footage (Video/Photo)
 + Livestream Production
-+ Brand Consulting 
++ Brand, Project, Concept, Organization & Art Direction Consulting 
 + Social Media Marketing (Community Building)
 + Software Products (Helve OS)
 
