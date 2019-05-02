@@ -37,17 +37,22 @@ Directive Protocols | Type | Notes
 
 ## Revenue
 
+Video Production:
 + Short Films
-+ Video Editing
-+ Video Production
-+ Video Art Installations & Products
-+ Interactive Installations & Products
++ Film Production & Editing
++ Livestream Production
++ Video Art Installations
++ Interactive Installations
+
+Consulting:
++ Brand, Project, Concept, Organization & Art Direction Consulting (Creative and Technology Consulting)
+Creative Technology Consulting
+
+ Side Advanced Services:
 + Projection Mapping
 + Photogrammetry
 + VJing
 + Stock Footage (Video/Photo)
-+ Livestream Production
-+ Brand, Project, Concept, Organization & Art Direction Consulting (Creative and Technology Consulting)
 + Social Media Marketing (Community Building)
 + Software Products (Helve OS)
 
