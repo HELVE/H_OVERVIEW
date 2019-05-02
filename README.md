@@ -3,7 +3,7 @@
 <a name="overview"></a>
 # HELVE<sup>AVR</sup> | Multispecialist Creative House  
 
-**HELVE<sup>AVR</sup>** bases its activities within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
+**HELVE<sup>AVR</sup>** as a creative boutique bases its activities within 3 fields of creativity: Audio, Visual and Research. HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and livestream production to interactive installations for brands.
 
 <a name="divisions"></a>
 ### Studio Subdivisions
@@ -37,23 +37,17 @@ Directive Protocols | Type | Notes
 
 ## Revenue
 
-Video Production:
-+ Short Films
-+ Film Production & Editing
-+ Livestream Production
-+ Video Art Installations
-+ Interactive Installations
+**Current:**
++ Creative/Tech Consulting (Brands, Projects, Concept Development, Organization & Art Direction)
++ Virtual Community Building (Social Media Marketing)
++ Film & Livestream Production
 
-Consulting:
-+ Brand, Project, Concept, Organization & Art Direction Consulting (Creative and Technology Consulting)
-Creative Technology Consulting
-
- Side Advanced Services:
+**Upcoming services:**
++ Video Art & Interactive Installations
 + Projection Mapping
 + Photogrammetry
 + VJing
 + Stock Footage (Video/Photo)
-+ Social Media Marketing (Community Building)
 + Software Products (Helve OS)
 
 ### Table of Contents
