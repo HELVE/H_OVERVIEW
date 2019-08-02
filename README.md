@@ -24,33 +24,7 @@
 
 (move this) ^
 
-## Revenue
 
-▒ Interactive Installations
-▒ Projection Mapping
-▒ Photogrammetry
-▒ Interactive VJing
-▒ Video Production & Editing 
-▒ Video Art Installations
-▒ Livestream Production
-▒ Advanced Stock Video/Photo Creation 
-▒ Brand Consulting 
-▒ Marketing for Artists and Creators 
-▒ Software Development
-▒ Experimental Research Projects
-
-**Current:**
-+ Creative/Tech Consulting (Brands, Projects, Concept Development, Organization & Art Direction)
-+ Virtual Community Building (Social Media Marketing)
-+ Film & Livestream Production
-
-**Upcoming services:**
-+ Video Art & Interactive Installations
-+ Projection Mapping
-+ Photogrammetry
-+ VJing
-+ Stock Footage (Video/Photo)
-+ Software Products (Helve OS)
 
 ### Table of Contents
 1. [Overview.](#overview)
