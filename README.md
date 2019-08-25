@@ -117,8 +117,10 @@ Directive Protocols | Type | Notes
 + Idea_02
 
 <a name="team"></a>
-## Team
+## Helve Operatives
+Helve Global Creative Operations: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
 
 + mothnode
-+
++ sara mora
++ mechanoreceptor
 
