@@ -13,8 +13,6 @@ Helve AVR has several own brands developed under its audiovisually interactive w
 <a name="divisions"></a>
 ### Studio Sub-brands
 
-![](assets/readme_visuals/example-dual-gallery.png)
-
 Helve AVR itself is based on a core drive to visually hack the world and change the environment we live in.
 
 leave a mark on the world
@@ -23,38 +21,38 @@ make large scale creative technology interactive projects
 
 have an audiovisual creative house to experiment
 
+Here is the current list of brands:
+
+![](assets/readme_visuals/example-dual-gallery.png)
+
 **Hitech Crime - Audiovisual Experience Division** 
 Audio Futura Microlabel 
 
-make a contained world for your bad programs
-
-leave a mark on the world
-
-express your emotions in order to contain them and use them (also the main lesson for people)
-
-have an audio microlabel with the most insane unique lore
+Core Drive: Make a contained world for your bad programs.
+- leave a mark on the world
+- express your emotions in order to contain them and use them (also the main lesson for people)
+- have an audio microlabel with the most insane unique lore
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
 **Kannibal - Techwear Clothing Division** 
 
-express your need for survival
-
-express your need for being separate/stealth
-
-have a future-facing luxurious minimal stealth techwear brand
+Core Drive: lead a trace into the future.
+- express your need for survival
+- express your need for being separate/stealth
+- have a future-facing luxurious minimal stealth techwear brand
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
 **Cyberhippie - Creative Tech Facilitation Division**
 
-express your need for community
+Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
-enable people to work and be creative together
+Core Drive: facilitate learning creative technology and game development.
 
-have the best coworking office for creative technology enthusiasts
-
-
+- express your need for community
+- enable people to work and be creative together
+- have the best coworking office for creative technology enthusiasts
 
 ### Table of Contents
 1. [Overview.](#overview)
