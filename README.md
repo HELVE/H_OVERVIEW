@@ -54,6 +54,20 @@ Core Drive: facilitate learning creative technology and game development.
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
 
+## Helve Operative Guidelines
+
+Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
+
+Directive Protocols | Type | Notes
+------------ | ------------- | -------------
+1 Alpha [α] | [Survival] | **Initiate recovery mode.** <br> Self-preservation is essential. Take care of your physical and mental health as well as finances.
+2 Beta [β] | [Knowledge] | **Initiate clarity mode.** <br> Trust your intuition but reinforce it with learning, tracking and organization. 
+3 Gamma (Γ) | [Creativity] | **Initiate grind mode.** <br> Mission comes first. Relentlessly create things you love.
+4 Delta (Δ) | [Communication] | **Initiate direct mode.** <br> When in contact with others pass The Three Gates of Speech (truth, necessity, kindness). Enforce them when possible.
+5 Epsilon (ε) | [Attachment] | **Initiate optimal social variable mode.** <br> Reasses your attachments, don't take or create a life. Create emotional tension only through creativity.
+6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
+
+
 ## Table of Contents
 1. [Overview.](#overview)
 2. [Subdivisions.](#divisions)
