@@ -1,12 +1,12 @@
 ![](https://user-images.githubusercontent.com/2768053/45264520-3d0c7a00-b43e-11e8-899c-790441ae68eb.png)
 
 <a name="overview"></a>
-# HELVE<sup>AVR</sup> | Multispecialist Creative Agency  
+# HELVE AVR | Multispecialist Creative Agency  
 "Actually interactive" ;p
 
-**HELVE<sup>AVR</sup>** as a multispecialist creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and livestream production to interactive installations for brands and brand creation itself. 
+**HELVE AVR** as a multispecialist creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and livestream production to interactive installations for brands and brand creation itself. 
 
-HELVE<sup>AVR</sup> uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
+HELVE AVR uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
 
 Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
