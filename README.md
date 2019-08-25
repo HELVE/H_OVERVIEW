@@ -11,7 +11,7 @@ Our agency uses the reinforced trisight methodology, which promotes usage of spe
 Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
 <a name="divisions"></a>
-### Studio Sub-brands
+### Agency Sub-brands
 
 Helve AVR itself is based on a core drive to visually hack the world and change the environment we live in.
 
