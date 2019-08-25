@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/2768053/45264520-3d0c7a00-b43e-11e8-899c-790441ae68eb.png)
+![](/assets/readme_visuals/helveavr_dark.png)
 
 <a name="overview"></a>
 # HELVE AVR | Multispecialist Creative Agency  
