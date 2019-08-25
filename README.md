@@ -44,7 +44,7 @@ Core Drive: lead a trace into the future.
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-### **Cyberhippie - Interactive Entertainment Division**
+### **Cyberhippie - Interactive Community Entertainment Division**
 
 Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
