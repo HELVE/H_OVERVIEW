@@ -54,7 +54,7 @@ Core Drive: facilitate learning creative technology and game development.
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
 
-## Helve Operative Guidelines
+## Helve Operative Guidelines - Directive Protocols
 
 Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
 
@@ -66,6 +66,23 @@ Directive Protocols | Type | Notes
 4 Delta (Δ) | [Communication] | **Initiate direct mode.** <br> When in contact with others pass The Three Gates of Speech (truth, necessity, kindness). Enforce them when possible.
 5 Epsilon (ε) | [Attachment] | **Initiate optimal social variable mode.** <br> Reasses your attachments, don't take or create a life. Create emotional tension only through creativity.
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
+
+## Agency Skillpaths
+
+* Projection Mapping
+* Photogrammetry
+* Livestream Production
+* Interactive VJing
+* Video Production & Editing 
+* Video Art Installations
+* Advanced Stock Video/Photo Creation 
+* Brand Consulting 
+* Marketing for Artists and Creators 
+* Software Development
+* VR Experiences Production & Deployment
+* Experimental Research Projects
+* Livecoding
+* Augmented & Mixed Reality Custom Projects
 
 
 ## Table of Contents
