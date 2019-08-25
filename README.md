@@ -11,7 +11,7 @@ Our agency uses the reinforced trisight methodology, which promotes usage of spe
 Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
 <a name="divisions"></a>
-### Agency Sub-brands
+## Agency Sub-brands
 
 Helve AVR is based on a core drive to visually hack the world and change the environment we live in on a large scale.
 - leave a mark on the world
@@ -22,7 +22,7 @@ Here is the current list of brands:
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Hitech Crime - Audiovisual Experience Division** 
+### **Hitech Crime - Audiovisual Experience Division** 
 
 Audio Futura Microlabel 
 
@@ -33,7 +33,7 @@ Core Drive: Make a contained world for your bad programs.
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Kannibal - Future Tracing Division** 
+### **Kannibal - Future Tracing Division** 
 
 Techwear Clothing. 
 
@@ -44,7 +44,7 @@ Core Drive: lead a trace into the future.
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Cyberhippie - Interactive Entertainment Division**
+### **Cyberhippie - Interactive Entertainment Division**
 
 Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
@@ -54,7 +54,7 @@ Core Drive: facilitate learning creative technology and game development.
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
 
-### Table of Contents
+## Table of Contents
 1. [Overview.](#overview)
 2. [Subdivisions.](#divisions)
 3. [Issues.](#issues)
@@ -62,16 +62,16 @@ Core Drive: facilitate learning creative technology and game development.
 7. [Team.](#team)
 
 <a name="issues"></a>
-### Issues
+## Issues
 + ⎔ [#1 Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
 
 <a name="icebox"></a>
-### Icebox
+## Icebox
 + Idea_01
 + Idea_02
 
 <a name="team"></a>
-### Team
+## Team
 
 + mothnode
 +
