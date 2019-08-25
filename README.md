@@ -61,7 +61,6 @@ Core Drive: facilitate learning creative technology and game development.
 <a name="issues"></a>
 ### Issues
 + ⎔ [#1 Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
-+ ⎔ [#2 Fill in the subdivision graphics and descriptions.](https://github.com/HELVE/helve-intro/issues/2)
 
 <a name="icebox"></a>
 ### Icebox
