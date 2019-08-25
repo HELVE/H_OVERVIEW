@@ -13,13 +13,10 @@ Helve AVR has several own brands developed under its audiovisually interactive w
 <a name="divisions"></a>
 ### Agency Sub-brands
 
-Helve AVR itself is based on a core drive to visually hack the world and change the environment we live in.
-
-leave a mark on the world
-
-make large scale creative technology interactive projects
-
-have an audiovisual creative house to experiment
+Helve AVR is based on a core drive to visually hack the world and change the environment we live in on a large scale.
+- leave a mark on the world
+- make large scale creative technology interactive projects
+- have an audiovisual creative house to experiment
 
 Here is the current list of brands:
 
