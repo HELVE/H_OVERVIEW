@@ -6,27 +6,53 @@
 
 **HELVE AVR** as a multispecialist high technology creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and livestream production to interactive installations for brands and brand creation itself. 
 
-HELVE AVR uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools both on a wide organization and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as custom-tailored project-specific one.
+Our agency uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as the custom-tailored project-specific one.
 
 Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
 <a name="divisions"></a>
-### Studio Subdivisions (insert actual sub-brands here?)
+### Studio Sub-brands
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Audio Subdivision** Description
+Helve AVR itself is based on a core drive to visually hack the world and change the environment we live in.
+
+leave a mark on the world
+
+make large scale creative technology interactive projects
+
+have an audiovisual creative house to experiment
+
+**Hitech Crime - Audiovisual Experience Division** 
+Audio Futura Microlabel 
+
+make a contained world for your bad programs
+
+leave a mark on the world
+
+express your emotions in order to contain them and use them (also the main lesson for people)
+
+have an audio microlabel with the most insane unique lore
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Visual Subdivision** Description
+**Kannibal - Techwear Clothing Division** 
+
+express your need for survival
+
+express your need for being separate/stealth
+
+have a future-facing luxurious minimal stealth techwear brand
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-**Research Subdivision** Description
+**Cyberhippie - Creative Tech Facilitation Division**
 
+express your need for community
 
-(move this) ^
+enable people to work and be creative together
+
+have the best coworking office for creative technology enthusiasts
 
 
 
