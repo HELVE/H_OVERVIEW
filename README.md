@@ -3,8 +3,6 @@
 <a name="overview"></a>
 # HELVE AVR | Multispecialist Creative Agency  
 
-"Actually interactive" ;p
-
 **HELVE AVR** as a multispecialist high technology creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and livestream production to interactive installations for brands and brand creation itself. 
 
 Our agency uses the reinforced trisight methodology, which promotes usage of specialized, often self-made microtools on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as the custom-tailored project-specific one.
@@ -124,4 +122,6 @@ Helve Global Creative Operations: https://www.google.com/maps/d/edit?mid=1Qrx0Ne
 + mothnode
 + sara mora
 + mechanoreceptor
+
+"Actually interactive" ;p
 
