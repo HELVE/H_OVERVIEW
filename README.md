@@ -117,7 +117,7 @@ Directive Protocols | Type | Notes
 
 <a name="team"></a>
 ## Helve Operatives
-Helve Global Creative Operations: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
+Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
 
 + mothnode
 + sara mora
