@@ -5,7 +5,7 @@
 
 **HELVE AVR** as a multispecialist high technology creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
 
-Our agency uses the reinforced trisight methodology and project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) as the foundation of its operational values. It promotes usage of specialized, often self-made microtools on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as the custom-tailored project-specific one.
+Our agency uses the reinforced trisight methodology and project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) as the foundation of its operational values and drives. It promotes usage of specialized, often self-made microtools on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as the custom-tailored project-specific one.
 
 Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
