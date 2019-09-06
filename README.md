@@ -125,5 +125,5 @@ Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qr
 
 ---
 
-"Actually interactive" ;p
+"Actually interactive"
 
