@@ -1,9 +1,9 @@
 ![](/assets/readme_visuals/helveavr_dark.png)
 
 <a name="overview"></a>
-# HELVE AVR | Multispecialist Creative Agency  
+# HELVE AVR | High Technology Creative Agency  
 
-**HELVE AVR** as a multispecialist high technology creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
+**HELVE AVR** as a multispecialist creative agency bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
 
 Our agency uses the reinforced trisight methodology and project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) as the foundation of its operational values and drives. It promotes usage of specialized, often self-made microtools on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as the custom-tailored project-specific one.
 
