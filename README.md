@@ -101,8 +101,8 @@ Directive Protocols | Type | Notes
 
 
 ## Table of Contents
-1. [Overview.](#overview)
-2. [Subdivisions.](#divisions)
+1. [Introduction.](#overview)
+2. [Sub-brands.](#divisions)
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
 7. [Team.](#team)
