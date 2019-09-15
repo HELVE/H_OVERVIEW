@@ -1,6 +1,6 @@
 ![](/assets/readme_visuals/helveavr_dark.png)
 
-<a name="overview"></a>
+<a name="orientation"></a>
 # HELVE AVR | High Technology Creative Agency  
 
 **HELVE AVR** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
@@ -101,7 +101,7 @@ Directive Protocols | Type | Notes
 
 
 ## Table of Contents
-1. [Introduction.](#overview)
+1. [Orientation.](#orientation)
 2. [Sub-brands.](#divisions)
 3. [Issues.](#issues)
 4. [Icebox.](#icebox)
