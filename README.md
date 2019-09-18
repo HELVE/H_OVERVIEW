@@ -1,5 +1,7 @@
 ![](/assets/readme_visuals/helveavr_dark.png)
 
+![](helve-banner.png)
+
 <a name="orientation"></a>
 # HELVE AVR | High Technology Creative Agency  
 
