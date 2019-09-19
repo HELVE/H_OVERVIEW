@@ -3,18 +3,18 @@
 ![](helve-banner.png)
 
 <a name="orientation"></a>
-# HELVE AVR | High Technology Creative Agency  
+# HELVE ᴀᴠʀ | High Technology Creative Agency  
 
-**HELVE AVR** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
+**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon. As a business it provides a variety of advanced services from video and live production to interactive installations for brands and brand creation itself. 
 
 Our agency uses reinforced trisight methodology in conjunction with project called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) as a foundation for its operational values and drives. It promotes usage of specialized, often self-made microtools and systems that can be introduced on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as a custom-tailored project-specific one.
 
-Helve AVR has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
+Helve ᴀᴠʀ has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
 
 <a name="divisions"></a>
 ## Agency Sub-brands
 
-Helve AVR is based on a core drive to visually hack the world and change the environment we live in on a large scale.
+Helve ᴀᴠʀ is based on a core drive to visually hack the world and change the environment we live in on a large scale.
 - leave a mark on the world
 - make large scale creative technology interactive projects
 - have an audiovisual creative house to experiment
@@ -68,7 +68,7 @@ Directive Protocols | Type | Notes
 5 Epsilon (ε) | [Attachment] | **Initiate optimal social variable mode.** <br> Reasses your attachments, don't take or create a life. Create emotional tension only through creativity.
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
 
-## Agency Skillpaths
+## Potential Agency Skillpaths
 
 * Projection Mapping
 * Photogrammetry
