@@ -122,9 +122,9 @@ Directive Protocols | Type | Notes
 ## Helve Operatives
 Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
 
-+ mothnode
-+ sara mora
-+ mechanoreceptor
++ mothnode        (Moth)
++ Sara Mora       (Mora)
++ Mechanoreceptor (Mech)
 
 ---
 
