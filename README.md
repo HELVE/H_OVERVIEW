@@ -126,7 +126,7 @@ Directive Protocols | Type | Notes
 ## Helve Operatives
 Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
 
-Specialized group of creatives experimenting with advanced technology and creating new ways of expression in various tech and content outputs. Designers, videographers, musicians.
+"Specialized group of creatives experimenting with advanced technology and creating new ways of expression in various tech and content outputs. Designers, videographers, musicians."
 
 + mothnode        (Moth)
 + Sara Mora       (Mora)
