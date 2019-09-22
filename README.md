@@ -5,7 +5,7 @@
 <a name="orientation"></a>
 # HELVE ᴀᴠʀ | High Technology Creative Agency  
 
-**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. As a business it provides a variety of advanced services from video and live production to interactive audiovisual installations for brands and brand creation itself. As an independent creative taskforce we operate between the borders of creative/business industries and the conceptual anarchy. Analyzed experimentation is our preferred approach to problems.
+**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. As a business it provides a variety of advanced services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself. As an independent creative taskforce we operate between the borders of creative/business industries and the conceptual anarchy. Analyzed experimentation is our preferred approach to problems.
 
 The reason Helve ᴀᴠʀ exists is to create new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to visually hack the world.
 
