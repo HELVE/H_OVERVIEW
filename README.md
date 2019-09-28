@@ -29,7 +29,7 @@ Here is the current list of brands:
 
 ### - **Hitech Crime - Audiovisual Experience Division** 
 
-Audio Futura Microlabel 
+> Audio Futura Microlabel 
 
 Core Drive: Make a contained world for your bad programs.
 - leave a mark on the world
@@ -40,7 +40,7 @@ Core Drive: Make a contained world for your bad programs.
 
 ### - **Kannibal - Future Tracing Division** 
 
-Techwear Clothing. 
+> Stealth Techwear Clothing & Accessories. 
 
 Core Drive: lead a trace into the future.
 - express your need for survival
@@ -51,7 +51,7 @@ Core Drive: lead a trace into the future.
 
 ### - **Cyberhippie - Interactive Community Entertainment Division**
 
-Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
+> Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
 Core Drive: facilitate learning creative technology and game development.
 
