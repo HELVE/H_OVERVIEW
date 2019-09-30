@@ -108,7 +108,6 @@ Directive Protocols | Type | Notes
 * ESTABLISH MEMETIC DEPENDENCE.
 * CONTROL THE DOPAMINE AND YOU CONTROL THE WORLD.
 
-
 ## Table of Contents
 1. [Orientation.](#orientation)
 2. [Sub-brands.](#divisions)
@@ -119,11 +118,6 @@ Directive Protocols | Type | Notes
 <a name="issues"></a>
 ## Issues
 + ⎔ [#1 Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
-
-<a name="icebox"></a>
-## Icebox
-+ Idea_01
-+ Idea_02
 
 <a name="team"></a>
 ## Helve Operatives
