@@ -34,7 +34,7 @@ Here is the current list of brands:
 > Audio Futura Microlabel 
 
 Core Drive: Make a contained world for your bad programs.
-- leave a mark on the world
+- leave a mark on the world, take your future into your hands
 - express your emotions in order to contain them and use them (also the main lesson for people)
 - have an audio microlabel with the most insane unique lore
 
