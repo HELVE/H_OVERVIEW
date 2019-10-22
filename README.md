@@ -5,7 +5,7 @@
 <a name="orientation"></a>
 # HELVE ᴀᴠʀ | High Technology Creative Agency  
 
-> "Change Reality"
+> "Change Reality" / "Visually hack the world"
 
 > "Agents of S.H.I.E.L.D of Creative Industry"
 
