@@ -92,7 +92,7 @@ Directive Protocols | Type | Notes
 * Experimental Research Projects
 * Livecoding
 * Augmented & Mixed Reality Custom Projects
-* Voice Ops: Alexa Skills via Skillpath.ai Entity
+* Voice Ops: Alexa Skills via Skillpath.ai Entity (check Skillpath repo)
 
 ## Agency Source Code
 
