@@ -31,9 +31,9 @@ Here is the current list of brands:
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
-### - **Hitech Crime - Audiovisual Experience Division** 
+### - **Hitech Crime - Transmedia Experience Division** 
 
-> Audio Futura Microlabel 
+> Audio Futura Microlabel Universe
 
 Core Drive: Make a contained world for your bad programs.
 - leave a mark on the world, take your future into your hands
