@@ -55,24 +55,6 @@ Directive Protocols | Type | Notes
 * ESTABLISH MEMETIC DEPENDENCE.
 * CONTROL THE DOPAMINE AND YOU CONTROL THE WORLD.
 
-## Potential Agency Skillpaths
-
-* Projection Mapping
-* Photogrammetry
-* Livestream Production
-* Interactive VJing
-* Video Production & Editing 
-* Video Art Installations
-* Advanced Stock Video/Photo Creation 
-* Brand Consulting 
-* Marketing for Artists and Creators 
-* Software Development
-* VR Experiences Production & Deployment
-* Experimental Research Projects
-* Livecoding
-* Augmented & Mixed Reality Custom Projects
-* Voice Ops: Alexa Skills via Skillpath.ai Entity (check Skillpath repo)
-
 ---
 
 Helve ᴀᴠʀ has several own brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations related to the main core drive of the agency, which is to vishack the world. 
@@ -142,4 +124,22 @@ Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qr
 + mothnode        (Moth) / Tim Moth (Poland/Nomad)
 + Sara Mora       (Mora) / Sara Morawska (Poland/Iceland)
 + Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)
+
+## Potential Agency Skillpaths
+
+* Projection Mapping
+* Photogrammetry
+* Livestream Production
+* Interactive VJing
+* Video Production & Editing 
+* Video Art Installations
+* Advanced Stock Video/Photo Creation 
+* Brand Consulting 
+* Marketing for Artists and Creators 
+* Software Development
+* VR Experiences Production & Deployment
+* Experimental Research Projects
+* Livecoding
+* Augmented & Mixed Reality Custom Projects
+* Voice Ops: Alexa Skills via Skillpath.ai Entity (check Skillpath repo) - creative voice projects
 
