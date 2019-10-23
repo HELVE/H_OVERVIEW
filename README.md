@@ -140,10 +140,6 @@ Directive Protocols | Type | Notes
 4. [Icebox.](#icebox)
 7. [Team.](#team)
 
-<a name="issues"></a>
-## Issues
-+ ⎔ [#1 Describe the trisight methodology.](https://github.com/HELVE/helve-intro/issues/1)
-
 <a name="team"></a>
 ## Helve Operatives
 Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
