@@ -23,7 +23,7 @@ The reason Helve ᴀᴠʀ exists is to create not only new ways of expression fo
 
 As a future potential service Helve ᴀᴠʀ aims to provide a variety of expertise from video and live production, through design of narrative engagement of the audience to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about [Helve ᴀᴠʀ Agency Source Code](#sourcecode) below).
 
-Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) makes the foundation for Helve AVR's operational values and drives. 
+Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) makes the foundation for Helve AVR's operational values. 
 
 ## Helve Operative Guidelines - Directive Protocols
 
