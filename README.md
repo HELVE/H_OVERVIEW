@@ -111,6 +111,8 @@ All brands are implemented through creation of specific narrative transmedia uni
 
 ### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
 
+![](forest-A4.png)
+
 > Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
 **Personal Core Drive:** facilitate learning creative technology and game development.
