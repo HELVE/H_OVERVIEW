@@ -127,7 +127,7 @@ Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qr
 + Sara Mora       (Mora) / Sara Morawska (Poland/Iceland)
 + Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)
 
-## Potential Agency Skillpaths
+## Potential Agency Skillpaths/Project Types
 
 * Projection Mapping
 * Photogrammetry
@@ -140,8 +140,9 @@ Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qr
 * Marketing for Artists and Creators 
 * Software Development
 * VR Experiences Production & Deployment
+* Transmedia Narratives
 * Experimental Research Projects
 * Livecoding
 * Augmented & Mixed Reality Custom Projects
-* Voice Ops: Alexa Skills via Skillpath.ai Entity (check Skillpath repo) - creative voice projects
+* Voice Ops: Alexa Skills via [Skillpath.ai Entity](https://github.com/HELVE/SKILLPATH.AI) - creative voice projects
 
