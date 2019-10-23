@@ -57,6 +57,8 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 ---
 
+# Helve's Creative Universes
+
 Helve ᴀᴠʀ has several own brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations related to the main core drive of the agency, which is to vishack the world. 
 
 All brands are implemented through creation of specific narrative transmedia universes for each of the brands. They are often based on an episodic structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
