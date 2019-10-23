@@ -74,6 +74,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 ### - Helve AVR - Motherbrand! ;)
 
 **Personal Core Drive:** change the environment we live in on a large scale through artistic expression.
+
 - leave a mark on the world
 - make large scale creative technology interactive projects
 - establish a safe space to experiment either solo or in a team
@@ -85,9 +86,10 @@ All brands are implemented through creation of specific narrative transmedia uni
 ![](hitechcrime.png)
 
 **Personal Core Drive:** Make a contained narrative world for personal "bad programs".
-- each release is a chapter of the story that can be experienced in multitude of ways through many platforms
+
+- each album release is a chapter of the story that can be experienced in multitude of ways through many platforms
 - leave a mark on the world, take your future into your hands
-- express your emotions in order to contain them and use them (also the main lesson for people)
+- express your emotions in order to contain them and use them (main lesson for the audience)
 - have an audio microlabel with the most unique lore
 - create a transmedia universe that people can experience and interact with in any way they want
 
@@ -100,7 +102,8 @@ All brands are implemented through creation of specific narrative transmedia uni
 
 ![](kannibalwear.png)
 
-**Personal Core Drive:** lead a trace into the future.
+**Personal Core Drive:** lead a trace into the future. Promote experimental mindset.
+
 - express your need for survival
 - express your need for being separate/stealth
 - have a future-facing (luxurious) minimal stealth techwear brand
@@ -112,6 +115,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 > Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
 **Personal Core Drive:** facilitate learning creative technology and game development.
+
 - express your need for community
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
@@ -122,9 +126,9 @@ All brands are implemented through creation of specific narrative transmedia uni
 ## Helve Operatives
 [Helve Global Creative Operations Map](https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2): 
 
-+ mothnode        (Moth) / Tim Moth (Poland/Nomad)
-+ Sara Mora       (Mora) / Sara Morawska (Poland/Iceland)
-+ Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)
++ mothnode        (Moth) / Tim Moth (Poland/Nomad)        / ACTIVE
++ Sara Mora       (Mora) / Sara Morawska (Poland/Iceland) / DORMANT
++ Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)     / DORMANT
 
 ## Potential Agency Skillpaths/Project Types
 
