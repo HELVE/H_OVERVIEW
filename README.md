@@ -9,21 +9,23 @@
 
 > "Agents of S.H.I.E.L.D of Creative Industry"
 
-**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Helve Operatives are a specialized group of creatives (world summoners, designers, videographers, musicians) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
+> "Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon."
 
-As an independent creative taskforce we operate between the borders of creative/business industries and the conceptual anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
+**HELVE ᴀᴠʀ** is a multispecialist creative entity, which has been 2 years in the making. Helve Operatives are a specialized group of creatives (world summoners, designers, videographers, musicians) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
 
-As a business it aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and "dark moon brand" creation itself. 
+As an independent creative taskforce we operate between the borders of creative industry and conceptual freedom of anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
 
-*brands inherently rebellious in nature, trying to change the status quo
+As a business Helve ᴀᴠʀ aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about the Helve ᴀᴠʀ Agency Source Code).
 
-The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists but also to provide new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world**.
+The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists but also to provide new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world** and promote being creative and proactive with one's life by showcasing the process of making something and potentially inspiring others to create nonstandard creative projects - be it big or small.
 
-Our agency uses Reinforced Trisight methodology in conjunction with a personal project called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying goals and discovering inner strengths and weaknesses) as a foundation for its operational values and drives. It promotes usage of specialized, often self-made microtools and systems that can be introduced on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as a custom-tailored project-specific one.
+Our agency uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division in conjunction with a project created for personal called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying ones core drives in life, discovering strengths and weaknesses, optimizing for creativity) works as a foundation for Helve AVR's operational values and drives. 
 
-Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon.
+---
 
-Helve ᴀᴠʀ has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different underlying emotion/motivation related to the core drive of the agency, which is to vishack the world. All brands are implemented by creating specific narrative universes for each of the brands.
+Helve ᴀᴠʀ has several own brands developed under its wings. Each of the brands represents a range of underlying emotion/motivation related to the main core drive of the agency, which is to vishack the world. 
+
+All brands are implemented by creating specific narrative transmedia universes for each of the brands, often using episodic nature as well as rapid prototyping and behind the scenes approach (Helve Logs - Live Documentation Series).
 
 <a name="divisions"></a>
 ## Agency Sub-brands
@@ -139,5 +141,9 @@ Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qr
 
 ---
 
+# Notes
+
 "Actually interactive"
+
+It promotes usage of specialized, often self-made microtools and systems that can be introduced on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as a custom-tailored project-specific one. 
 
