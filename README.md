@@ -71,8 +71,6 @@ Core Drive: lead a trace into the future.
 
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
-![](assets/readme_visuals/example-dual-gallery.png)
-
 ### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT BRAND]
 
 > Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
