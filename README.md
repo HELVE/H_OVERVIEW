@@ -9,15 +9,21 @@
 
 > "Agents of S.H.I.E.L.D of Creative Industry"
 
-**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. As a business it provides a variety of advanced services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself. As an independent creative taskforce we operate between the borders of creative/business industries and the conceptual anarchy. Analyzed experimentation is our preferred approach to problems and form of expression.
+**HELVE ᴀᴠʀ** as a multispecialist entity bases its live creative operations within 3 fields of creativity: Audio, Visual and Research. Helve Operatives are a specialized group of creatives (world summoners, designers, videographers, musicians) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
 
-The reason Helve ᴀᴠʀ exists is to create new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to visually hack the world.
+As an independent creative taskforce we operate between the borders of creative/business industries and the conceptual anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
 
-Our agency uses Reinforced Trisight methodology in conjunction with project called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) as a foundation for its operational values and drives. It promotes usage of specialized, often self-made microtools and systems that can be introduced on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as a custom-tailored project-specific one.
+As a business it aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and "dark moon brand" creation itself. 
+
+*brands inherently rebellious in nature, trying to change the status quo
+
+The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists but also to provide new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world**.
+
+Our agency uses Reinforced Trisight methodology in conjunction with a personal project called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying goals and discovering inner strengths and weaknesses) as a foundation for its operational values and drives. It promotes usage of specialized, often self-made microtools and systems that can be introduced on a wide organizational and creative scale [(HelveOS)](https://github.com/HELVE/helveOS) as well as a custom-tailored project-specific one.
 
 Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon.
 
-Helve ᴀᴠʀ has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different emotion related to the core drive of the agency, which is to vishack the world.
+Helve ᴀᴠʀ has several own brands developed under its audiovisually interactive wings. Each of the brands represents a different underlying emotion/motivation related to the core drive of the agency, which is to vishack the world. All brands are implemented by creating specific narrative universes for each of the brands.
 
 <a name="divisions"></a>
 ## Agency Sub-brands
@@ -38,7 +44,9 @@ Here is the current list of brands:
 Core Drive: Make a contained world for your bad programs.
 - leave a mark on the world, take your future into your hands
 - express your emotions in order to contain them and use them (also the main lesson for people)
-- have an audio microlabel with the most insane unique lore
+- have an audio microlabel with the most unique lore
+- create a transmedia universe that people can experience and interact with in any way they want
+- each release is a chapter of the story that can be experience in multitude of ways through many platforms
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
@@ -124,8 +132,6 @@ Directive Protocols | Type | Notes
 <a name="team"></a>
 ## Helve Operatives
 Helve Global Creative Operations Map: https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2
-
-"Specialized group of creatives experimenting with advanced technology and creating new ways of expression in various tech and content outputs. Designers, videographers, musicians."
 
 + mothnode        (Moth)
 + Sara Mora       (Mora)
