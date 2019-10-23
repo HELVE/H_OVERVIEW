@@ -51,23 +51,26 @@ Here is the current list of brands:
 
 ![](hitechcrime.png)
 
-**Core Drive:** Make a contained narrative world for personal "bad programs".
+**Personal Core Drive:** Make a contained narrative world for personal "bad programs".
+- each release is a chapter of the story that can be experience in multitude of ways through many platforms
 - leave a mark on the world, take your future into your hands
 - express your emotions in order to contain them and use them (also the main lesson for people)
 - have an audio microlabel with the most unique lore
 - create a transmedia universe that people can experience and interact with in any way they want
-- each release is a chapter of the story that can be experience in multitude of ways through many platforms
+
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### - **Kannibal - Future Tracing Division** [ACTIVE RESEARCH PHASE]
+### - **Kannibal Wear - Future Tracing Division** [ACTIVE RESEARCH PHASE]
 
-> Stealth Techwear Clothing & Accessories. 
+> Stealth Techwear R&D - Clothing & Accessories. 
 
-Core Drive: lead a trace into the future.
+![](kannibalwear.png)
+
+**Personal Core Drive:** lead a trace into the future.
 - express your need for survival
 - express your need for being separate/stealth
-- have a future-facing luxurious minimal stealth techwear brand
+- have a future-facing (luxurious) minimal stealth techwear brand
 
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
@@ -75,8 +78,7 @@ Core Drive: lead a trace into the future.
 
 > Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
-Core Drive: facilitate learning creative technology and game development.
-
+**Personal Core Drive:** facilitate learning creative technology and game development.
 - express your need for community
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
