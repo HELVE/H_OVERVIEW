@@ -47,20 +47,18 @@ Here is the current list of brands:
 
 ### - **Hitech Crime - Transmedia Experience Division** 
 
-![](hitechcrime.png)
-
 > Audio Futura Microlabel Universe
 
-Core Drive: Make a contained world for your bad programs.
+![](hitechcrime.png)
+
+**Core Drive:** Make a contained narrative world for personal "bad programs".
 - leave a mark on the world, take your future into your hands
 - express your emotions in order to contain them and use them (also the main lesson for people)
 - have an audio microlabel with the most unique lore
 - create a transmedia universe that people can experience and interact with in any way they want
 - each release is a chapter of the story that can be experience in multitude of ways through many platforms
 
-[Overview of the Hitech Crime universe](https://github.com/HITECHCRIME/HC_OVERVIEW): 64 experimental release ideas so far.
-
-![](assets/readme_visuals/example-dual-gallery.png)
+[HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
 ### - **Kannibal - Future Tracing Division** 
 
