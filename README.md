@@ -29,7 +29,7 @@ Our entity uses Reinforced Trisight methodology - we base our live creative oper
 
 Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
 
-Directive Protocols | Type | Notes
+Directive Protocols | Type [Lifeloop] | Notes
 ------------ | ------------- | -------------
 1 **Alpha [α]** | **[Survival]** | **Initiate recovery mode.** <br> Self-preservation is essential. Take care of your physical and mental health as well as finances.
 2 **Beta [β]** | **[Knowledge]** | **Initiate clarity mode.** <br> Trust your intuition but reinforce it with learning, tracking and organization. 
