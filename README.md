@@ -23,7 +23,7 @@ As a business Helve ᴀᴠʀ aims to provide a variety of services from video an
 
 The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists and crafters but also to provide new future environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world** and promote being creative and proactive with one's life by showcasing the process of making something and potentially inspiring others to create nonstandard creative projects - be it a big or small story to tell.
 
-Our agency uses Reinforced Trisight methodology and according to it we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works well in conjunction with a project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying ones core drives in life, discovering strengths and weaknesses, optimizing lifestyle for creativity) works as a foundation for Helve AVR's operational values and drives. 
+Our agency uses Reinforced Trisight methodology and according to it we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works well in conjunction with a project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying ones core drives in life, discovering strengths and weaknesses, optimizing lifestyle for creativity) makes the foundation for Helve AVR's operational values and drives. 
 
 ---
 
@@ -45,7 +45,7 @@ Helve ᴀᴠʀ is based on a core drive to visually hack the world and change th
 
 Here is the current list of brands:
 
-### - **Hitech Crime - Transmedia Experience Division** 
+### - **Hitech Crime - Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
 
 > Audio Futura Microlabel Universe
 
@@ -60,7 +60,7 @@ Here is the current list of brands:
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### - **Kannibal - Future Tracing Division** 
+### - **Kannibal - Future Tracing Division** [ACTIVE RESEARCH PHASE]
 
 > Stealth Techwear Clothing & Accessories. 
 
@@ -71,7 +71,7 @@ Core Drive: lead a trace into the future.
 
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
-### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT BRAND]
+### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
 
 > Cyberhippie Collective started out as an online Discord server gathering 100+ game developers and gamers from various parts of the globe. After a tumultuous period of pivoting, as an obviously conscious entity it finally settled on being a coworking space for creative technology ethusiasts.
 
