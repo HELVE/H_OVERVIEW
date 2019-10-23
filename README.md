@@ -15,7 +15,7 @@
 
 As an independent creative taskforce we operate between the borders of creative industry and conceptual freedom of anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
 
-As a business Helve ᴀᴠʀ aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about the Helve ᴀᴠʀ Agency Source Code).
+As a business Helve ᴀᴠʀ aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about the [Helve ᴀᴠʀ Agency Source Code]((#sourcecode)).
 
 The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists but also to provide new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world** and promote being creative and proactive with one's life by showcasing the process of making something and potentially inspiring others to create nonstandard creative projects - be it big or small.
 
@@ -104,6 +104,7 @@ Directive Protocols | Type | Notes
 * Augmented & Mixed Reality Custom Projects
 * Voice Ops: Alexa Skills via Skillpath.ai Entity (check Skillpath repo)
 
+<a name="sourcecode"></a>
 ## Agency Source Code
 
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
