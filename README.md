@@ -11,15 +11,17 @@
 
 > "Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon."
 
-**HELVE ᴀᴠʀ** is a multispecialist creative entity, which has been 2 years in the making. Helve Operatives are a specialized group of creatives (world summoners, designers, videographers, musicians) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
+---
+
+**HELVE ᴀᴠʀ** is a 2+ years in the making multispecialist creative entity, which has been a personal way to clarify who I am and what I strive for in life. Helve Operatives are a specialized group of creatives (world summoners, designers, videographers, musicians, game makers, writers) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
 
 As an independent creative taskforce we operate between the borders of creative industry and conceptual freedom of anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
 
-As a business Helve ᴀᴠʀ aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about [Helve ᴀᴠʀ Agency Source Code]((#sourcecode) below).
+As a business Helve ᴀᴠʀ aims to provide a variety of services from video and live production to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about [Helve ᴀᴠʀ Agency Source Code](#sourcecode) below).
 
-The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists but also to provide new environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world** and promote being creative and proactive with one's life by showcasing the process of making something and potentially inspiring others to create nonstandard creative projects - be it big or small.
+The reason Helve ᴀᴠʀ exists is to create not only new ways of expression for us as artists and crafters but also to provide new future environments and ways of communication both in real life as well as in mixed reality experiences - our core drive is to **visually hack the world** and promote being creative and proactive with one's life by showcasing the process of making something and potentially inspiring others to create nonstandard creative projects - be it a big or small story to tell.
 
-Our agency uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division in conjunction with a project created for personal called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying ones core drives in life, discovering strengths and weaknesses, optimizing for creativity) works as a foundation for Helve AVR's operational values and drives. 
+Our agency uses Reinforced Trisight methodology and according to it we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works well in conjunction with a project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (clarifying ones core drives in life, discovering strengths and weaknesses, optimizing lifestyle for creativity) works as a foundation for Helve AVR's operational values and drives. 
 
 ---
 
