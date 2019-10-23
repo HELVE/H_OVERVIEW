@@ -23,11 +23,11 @@ The reason Helve ᴀᴠʀ exists is to create not only new ways of expression fo
 
 As a future potential service Helve ᴀᴠʀ aims to provide a variety of expertise from video and live production, through design of narrative engagement of the audience to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about [Helve ᴀᴠʀ Agency Source Code](#sourcecode) below).
 
-Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual and Research/Interaction. That division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) makes the foundation for Helve AVR's operational values. 
+Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual & Research/Interaction. Such specific division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) and is what makes the foundation for Helve AVR's operational values. 
 
 ## Helve Operative Guidelines - Directive Protocols
 
-Directive Protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
+Directive Protocols act as a basis for behavioral priorities and are a direct reflection of the values that creatives of Helve try to uplift for the sake of personal development and growth. Every Helve Operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
 
 Directive Protocols | Type [Lifeloop] | Notes
 ------------ | ------------- | -------------
@@ -38,14 +38,13 @@ Directive Protocols | Type [Lifeloop] | Notes
 5 Epsilon (ε) | [Attachment] | **Initiate optimal social variable mode.** <br> Reasses your attachments, don't take or create a life. Create emotional tension only through creativity.
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
 
-<a name="sourcecode"></a>
 ## Agency Source Code
 
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
 * ENDLESSLY OPTIMIZE ENLIGHTENMENT INTO ORDER.
 * FALL IN LOVE WITH THE PROCESS.
 * DON'T TALK, EXECUTE.
-* MOBILE AND GLOBAL MOBILITY FIRST.
+* MOBILE AND GLOBAL AVAILABILITY FIRST.
 * BE EVERYWHERE WHERE IT COUNTS.
 * RELEVANCE OVER REACH.
 * PROVIDE DOPAMINE TRIGGERS TO YOUR AUDIENCE [VALUE].
@@ -57,9 +56,9 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 ---
 
-# Helve's Creative Universes
+# Helve AVR Creative Universe Approach
 
-Helve ᴀᴠʀ has several own brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations related to the main core drive of the agency, which is to vishack the world. 
+Helve ᴀᴠʀ has several own dark moon brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
 
 All brands are implemented through creation of specific narrative transmedia universes for each of the brands. They are often based on an episodic structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
@@ -70,14 +69,14 @@ All brands are implemented through creation of specific narrative transmedia uni
 > ![](helveavrconcept.png)
 
 <a name="divisions"></a>
-## Agency Sub-brands
+## Agency Brands
 
-Helve ᴀᴠʀ is based on a core drive to visually hack the world and change the environment we live in on a large scale.
+### - Helve AVR - Motherbrand! ;)
+
+**Personal Core Drive:** change the environment we live in on a large scale through artistic expression.
 - leave a mark on the world
 - make large scale creative technology interactive projects
-- have an audiovisual creative house to experiment
-
-Here is the current list of brands:
+- establish a safe space to experiment either solo or in a team
 
 ### - **Hitech Crime - Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
 
@@ -86,7 +85,7 @@ Here is the current list of brands:
 ![](hitechcrime.png)
 
 **Personal Core Drive:** Make a contained narrative world for personal "bad programs".
-- each release is a chapter of the story that can be experience in multitude of ways through many platforms
+- each release is a chapter of the story that can be experienced in multitude of ways through many platforms
 - leave a mark on the world, take your future into your hands
 - express your emotions in order to contain them and use them (also the main lesson for people)
 - have an audio microlabel with the most unique lore
