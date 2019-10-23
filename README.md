@@ -69,7 +69,7 @@ Core Drive: lead a trace into the future.
 - express your need for being separate/stealth
 - have a future-facing luxurious minimal stealth techwear brand
 
-[Overview of the Kannibal Wear](https://github.com/KANNIBAL/K_OVERVIEW)
+[KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
@@ -82,6 +82,8 @@ Core Drive: facilitate learning creative technology and game development.
 - express your need for community
 - enable people to work and be creative together
 - have the best coworking office for creative technology enthusiasts
+
+[INACTIVE PATREON](http://www.patreon.com/cyberhippie)
 
 ## Helve Operative Guidelines - Directive Protocols
 
