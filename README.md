@@ -27,7 +27,7 @@ Our entity uses Reinforced Trisight methodology - we base our live creative oper
 
 ## Helve Operative Guidelines - Directive Protocols
 
-Directive protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
+Directive Protocols act as a basis for behavioral priorities and are a direct reflection of the values that Helve creatives try to uplift for the sake of personal development and growth. Every Helve agent/operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
 
 Directive Protocols | Type [Lifeloop] | Notes
 ------------ | ------------- | -------------
