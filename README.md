@@ -25,7 +25,7 @@ Our agency uses Reinforced Trisight methodology - we base our live creative oper
 
 Helve ᴀᴠʀ has several own brands developed under its wings. Each of the brands represents a range of underlying emotion/motivation related to the main core drive of the agency, which is to vishack the world. 
 
-All brands are implemented by creating specific narrative transmedia universes for each of the brands, often using episodic nature as well as rapid prototyping and behind the scenes approach (Helve Logs - Live Documentation Series).
+All brands are implemented by creating specific narrative transmedia universes for each of the brands, often using episodic nature as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
 <a name="divisions"></a>
 ## Agency Sub-brands
