@@ -23,7 +23,7 @@ The reason Helve ᴀᴠʀ exists is to create not only new ways of expression fo
 
 As a future potential service Helve ᴀᴠʀ aims to provide a variety of expertise from video and live production, through design of narrative engagement of the audience to interactive audiovisual installations for brands and dark moon brand creation itself (*brands inherently rebellious in nature, trying to change the status quo, with preference for persistent small experimental steps and the philosophy that quantity creates quality* - read more about [Helve ᴀᴠʀ Agency Source Code](#sourcecode) below).
 
-Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual & Research/Interaction. Such specific division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) and is what makes the foundation for Helve AVR's operational values. 
+Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual & Research/Interaction. Such specific division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) and is what makes the foundation for Helve ᴀᴠʀ's operational values. 
 
 ## Helve Operative Guidelines - Directive Protocols
 
@@ -56,7 +56,7 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 ---
 
-# Helve AVR Creative Universe Approach
+# Helve ᴀᴠʀ Creative Universe Approach
 
 Helve ᴀᴠʀ has several own dark moon brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
 
@@ -71,7 +71,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 <a name="divisions"></a>
 ## Agency Brands
 
-### - Helve AVR - Motherbrand! ;)
+### - Helve ᴀᴠʀ - Motherbrand! ;)
 
 **Personal Core Drive:** change the environment we live in on a large scale through artistic expression.
 
@@ -92,7 +92,6 @@ All brands are implemented through creation of specific narrative transmedia uni
 - express your emotions in order to contain them and use them (main lesson for the audience)
 - have an audio microlabel with the most unique lore
 - create a transmedia universe that people can experience and interact with in any way they want
-
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
@@ -123,7 +122,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 [INACTIVE PATREON](http://www.patreon.com/cyberhippie)
 
 <a name="team"></a>
-## Helve Operatives
+## Helve ᴀᴠʀ Operatives
 [Helve Global Creative Operations Map](https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2): 
 
 + mothnode        (Moth) / Tim Moth (Poland/Nomad)        / ACTIVE
