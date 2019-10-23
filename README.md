@@ -31,6 +31,8 @@ Helve ᴀᴠʀ has several own brands developed under its wings. Each of the bra
 
 All brands are implemented by creating specific narrative transmedia universes for each of the brands, often using episodic nature as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
+![](mixer-offline.png)
+
 ## Quick Rephrasing
 
 > ![](helveavrconcept.png)
