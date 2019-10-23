@@ -45,9 +45,9 @@ Helve ᴀᴠʀ is based on a core drive to visually hack the world and change th
 
 Here is the current list of brands:
 
-![](assets/readme_visuals/example-dual-gallery.png)
-
 ### - **Hitech Crime - Transmedia Experience Division** 
+
+![](hitechcrime.png)
 
 > Audio Futura Microlabel Universe
 
@@ -57,6 +57,8 @@ Core Drive: Make a contained world for your bad programs.
 - have an audio microlabel with the most unique lore
 - create a transmedia universe that people can experience and interact with in any way they want
 - each release is a chapter of the story that can be experience in multitude of ways through many platforms
+
+[Overview of the Hitech Crime universe](https://github.com/HITECHCRIME/HC_OVERVIEW): 64 experimental release ideas so far.
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
@@ -68,6 +70,8 @@ Core Drive: lead a trace into the future.
 - express your need for survival
 - express your need for being separate/stealth
 - have a future-facing luxurious minimal stealth techwear brand
+
+[Overview of the Kannibal Wear](https://github.com/KANNIBAL/K_OVERVIEW)
 
 ![](assets/readme_visuals/example-dual-gallery.png)
 
