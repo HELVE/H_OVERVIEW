@@ -130,6 +130,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 + mothnode        (Moth) / Tim Moth (Poland/Nomad)        / ACTIVE
 + Sara Mora       (Mora) / Sara Morawska (Poland/Iceland) / DORMANT
 + Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)     / DORMANT
++ potential additional operatives will be chosen based on a specific set of requirements (Helve Orientation programme)
 
 ## Potential Agency Skillpaths/Project Types
 
