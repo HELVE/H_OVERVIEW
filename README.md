@@ -6,13 +6,11 @@
 # HELVE ᴀᴠʀ | High Technology Creative Agency  
 
 ---
-
 > "Change Reality" / "Visually hack the world"
 
 > "Agents of S.H.I.E.L.D. of Creative Industry"
 
 > "Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon."
-
 ---
 
 **HELVE ᴀᴠʀ** is a 2-12 years in the making creative entity/manifestation, which has been my way to clarify who I am and what I strive for in life. Helve consists of Operatives who are a multispecialized group of acquainted creatives (world summoners, designers, videographers, musicians, game makers, writers) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
