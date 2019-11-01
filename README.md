@@ -149,3 +149,4 @@ All brands are implemented through creation of specific narrative transmedia uni
 * Livecoding
 * Augmented & Mixed Reality Custom Projects
 * Voice Ops: Alexa Skills via [Skillpath.ai Entity](https://github.com/HELVE/SKILLPATH.AI) - creative voice projects
+*
