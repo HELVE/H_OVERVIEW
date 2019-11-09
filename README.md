@@ -132,19 +132,18 @@ All brands are implemented through creation of specific narrative transmedia uni
 
 ## Potential Agency Skillpaths/Project Types
 
-* Projection Mapping
-* Photogrammetry
-* Livestream Production
-* Interactive VJing
-* Video Production & Editing 
-* Video Art Installations
-* Advanced Stock Video/Photo Creation 
-* Brand Consulting 
-* Marketing for Artists and Creators 
-* Software Development
-* VR Experiences Production & Deployment
-* Transmedia Narrative Design & Production
-* Experimental Research Projects
-* Livecoding
-* Augmented & Mixed Reality Custom Projects
-* Voice Ops - creative voice projects Alexa Skills via [Skillpath.ai Entity](https://github.com/HELVE/SKILLPATH.AI)
+▒ Transmedia Narrative Design & Production
+▒ Video Production & Editing
+▒ Video Art Installations
+▒ Livestream Production
+▒ Interactive VJing
+▒ Dark Moon Brand Consulting
+▒ Marketing for Artists and Creators
+▒ Photogrammetry
+▒ Advanced Stock Video/Photo Creation
+▒ Software Development
+▒ XR Experiences Production & Deployment
+▒ Experimental Research Projects
+▒ Livecoding
+▒ Augmented & Mixed Reality Custom Projects
+▒ Voice Ops - creative voice projects ([Skillpath.ai Entity](https://github.com/HELVE/SKILLPATH.AI))
