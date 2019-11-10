@@ -60,7 +60,7 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 Helve ᴀᴠʀ as a hyperbrand exisiting both in reality and in the narrative universes has several own dark moon brands developed under its wings. Each of the metabrands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
 
-All brands are implemented through creation of specific narrative transmedia universes for each of the brands. They are often based on an episodic structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
+All brands are implemented through creation of specific narrative transmedia universes for each of them. They are often based on an episodic structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
 ![](mixer-offline.png)
 
