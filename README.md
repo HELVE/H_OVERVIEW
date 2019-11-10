@@ -54,8 +54,6 @@ Directive Protocols | Type [Lifeloop] | Notes
 * ESTABLISH MEMETIC "DEPENDENCE".
 * "CONTROL" THE DOPAMINE AND YOU "CONTROL" THE WORLD.
 
-
-
 ---
 
 # Helve ᴀᴠʀ Creative Universe Approach
