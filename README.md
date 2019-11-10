@@ -10,7 +10,7 @@
 
 > "Agents of S.H.I.E.L.D. of Creative Industry"
 
-> "Art + Technology + Business + Creative Education"
+> "Art + Creative Technology + Business + Education/Self-improvement"
 
 ```
 Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon.
