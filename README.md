@@ -39,7 +39,6 @@ Directive Protocols | Type [Lifeloop] | Notes
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
 
 ## Agency Source Code
-Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth.
 
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
 * ENDLESSLY OPTIMIZE ENLIGHTENMENT INTO ORDER.
@@ -64,6 +63,8 @@ Note: It is easy to create content when you are living the content. The truth co
 Helve ᴀᴠʀ as a hyperbrand exisiting both in reality and in the narrative universes has several own dark moon brands developed under its wings. Each of the metabrands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
 
 All metabrands are implemented through creation of specific narrative transmedia universes. They are often based on an episodic/seasonal structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
+
+Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth.
 
 ![](mixer-offline.png)
 
