@@ -69,7 +69,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 <a name="divisions"></a>
 ## Agency Brands
 
-### - Helve ᴀᴠʀ
+### - Helve AVR
 
 The overarching hyperbrand/metabrand. Agency exisiting both in reality and in the narrative universes.
 
