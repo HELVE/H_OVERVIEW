@@ -39,6 +39,7 @@ Directive Protocols | Type [Lifeloop] | Notes
 6 Omega (Ω) | [Reset] | **Initiate wipe and burn mode.** <br> In case of mission failure reassess and readapt before starting anew. Take in everything you learned on the way.
 
 ## Agency Source Code
+Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth.
 
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
 * ENDLESSLY OPTIMIZE ENLIGHTENMENT INTO ORDER.
@@ -53,6 +54,8 @@ Directive Protocols | Type [Lifeloop] | Notes
 * QUANTITY CREATES QUALITY.
 * ESTABLISH MEMETIC "DEPENDENCE".
 * "CONTROL" THE DOPAMINE AND YOU "CONTROL" THE WORLD.
+
+
 
 ---
 
