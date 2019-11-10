@@ -13,7 +13,7 @@
 > "Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon."
 ---
 
-**HELVE ᴀᴠʀ** is a 2-12 years in the making creative meta entity/manifestation, which has been my way to clarify who I am as a maker, as a human and what I strive for in life. Helve consists of Operatives who are a multispecialized group of acquainted creatives (world summoners, designers, videographers, musicians, game makers, writers) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
+**HELVE ᴀᴠʀ** is a 2-12 years in the making creative meta entity/manifestation (or hyperbrand/metabrand), which has been my way to clarify who I am as a maker, as a human and what I strive for in life. Helve consists of Operatives who are a multispecialized group of acquainted creatives (world summoners, designers, videographers, musicians, game makers, writers) experimenting with advanced technology and creating new ways of expression in various tech and content outputs. 
 
 As an independent creative taskforce we operate between the borders of creative industries and freedom of conceptual anarchy. Analyzed experimentation is our preferred approach to problems and a form of expression alike. 
 
