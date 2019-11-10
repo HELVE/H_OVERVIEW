@@ -72,6 +72,7 @@ All metabrands are implemented through creation of specific narrative transmedia
 ## Agency Brands
 
 ### - Helve AVR
+HYPERBRAND
 
 The overarching hyperbrand/metabrand. Crossing between reality, inspiration and fiction.
 
@@ -99,6 +100,7 @@ METABRAND
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
 ### - **Kannibal Wear - Future Tracing Division** [ACTIVE RESEARCH PHASE]
+METABRAND
 
 > Stealth Techwear R&D - Clothing & Accessories. 
 
@@ -113,6 +115,7 @@ METABRAND
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
 ### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
+METABRAND
 
 ![](forest-A4.png)
 
