@@ -58,7 +58,7 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 # Helve ᴀᴠʀ Creative Universe Approach
 
-Helve ᴀᴠʀ has several own dark moon brands developed under its wings. Each of the brands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
+Helve ᴀᴠʀ as a hyperbrand exisiting both in reality and in the narrative universes has several own dark moon brands developed under its wings. Each of the metabrands represents a range of underlying emotions/motivations/mindstates related to the main core drive of the agency, which is to vishack the world. 
 
 All brands are implemented through creation of specific narrative transmedia universes for each of the brands. They are often based on an episodic structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
@@ -73,7 +73,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 
 ### - Helve AVR
 
-The overarching hyperbrand/metabrand. Agency exisiting both in reality and in the narrative universes.
+The overarching hyperbrand/metabrand. Crossing between reality, inspiration and fiction.
 
 **Personal Core Drive:** change the environment we live in on a large scale through artistic expression.
 
