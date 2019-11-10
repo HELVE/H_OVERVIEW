@@ -69,7 +69,9 @@ All brands are implemented through creation of specific narrative transmedia uni
 <a name="divisions"></a>
 ## Agency Brands
 
-### - Helve ᴀᴠʀ - Motherbrand! ;)
+### - Helve ᴀᴠʀ
+
+The overarching hyperbrand/metabrand. Agency exisiting both in reality and in the narrative universes.
 
 **Personal Core Drive:** change the environment we live in on a large scale through artistic expression.
 
@@ -78,6 +80,7 @@ All brands are implemented through creation of specific narrative transmedia uni
 - establish a safe space to experiment either solo or in a team
 
 ### - **Hitech Crime - Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
+METABRAND
 
 > Audio Futura Microlabel Universe
 
