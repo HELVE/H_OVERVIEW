@@ -138,7 +138,7 @@ METABRAND
 [Helve Global Creative Operations Map](https://www.google.com/maps/d/edit?mid=1Qrx0NeEIWzPDpKbW6wnGU3gymHyP_N3H&ll=5.384339976371358%2C0&z=2): 
 
 + mothnode        (Moth) / Tim Moth (Poland/Nomad)        / ACTIVE
-+ Sara Mora       (Mora) / Sara Morawska (Poland/Iceland) / RETHINK, NON-RESPONSIVE
++ Sara Mora       (Mora) / Sara Morawska (Poland/Iceland) / RETHINK, NON-RESPONSIVE, NOPE
 + Mechanoreceptor (Mech) / Ryan Northcott (US/Austin)     / DORMANT
 + Jac             (Jhas) / Jacinto Quesnel                / DORMANT
 + potential additional operatives will be chosen based on a specific set of requirements (Helve Orientation programme)
