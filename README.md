@@ -78,7 +78,7 @@ Note: It is easy to create content when you are living the content. The truth co
 ## Agency Metabrands
 
 ### Helve AVR
-#### 'Motherbrand'
+#### 'Motherbrand' Audiovisual Hacking Division
 
 The overarching hyperbrand/metabrand. Crossing between reality, inspiration and fiction.
 
@@ -93,6 +93,14 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 > Future Tracing Division
 
 > Interactive Community Entertainment Division
+
+Alternative segmentation via AVR:
+
+- Audio Division
+
+Visual Division
+
+Research Division
 
 ### Hitech Crime Metabrand
 #### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
