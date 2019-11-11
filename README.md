@@ -91,12 +91,11 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 > Transmedia Experience Division
 > Future Tracing Division
 
-### Hitech Crime  
-**Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
-
-METABRAND
+### Hitech Crime Metabrand
+#### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
 
 > Audio Futura Microlabel Universe
+> Narrative Audiovisual Universe <- too broad
 
 ![](hitechcrime.png)
 
