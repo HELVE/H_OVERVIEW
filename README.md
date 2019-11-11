@@ -74,10 +74,9 @@ Note: It is easy to create content when you are living the content. The truth co
 > ![](helveavrconcept.png)
 
 <a name="divisions"></a>
-## Agency Brands
+## Agency Metabrands
 
 ### - Helve AVR
-HYPERBRAND
 
 The overarching hyperbrand/metabrand. Crossing between reality, inspiration and fiction.
 
