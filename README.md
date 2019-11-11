@@ -98,9 +98,9 @@ Alternative segmentation via AVR:
 
 - Audio Division
 
-Visual Division
+- Visual Division
 
-Research Division
+- Research Division
 
 ### Hitech Crime Metabrand
 #### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
@@ -122,7 +122,6 @@ Research Division
 
 ### Kannibal Wear 
 #### Future Tracing Division [ACTIVE RESEARCH PHASE]**
-METABRAND
 
 > Stealth Techwear R&D - Clothing & Accessories. 
 
