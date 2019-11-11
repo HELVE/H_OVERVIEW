@@ -91,8 +91,8 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 > Transmedia Experience Division
 > Future Tracing Division
 
-### - **Hitech Crime -  [ACTIVE PROTOTYPING PHASE]
-Transmedia Experience Division**
+### Hitech Crime  
+**Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
 
 METABRAND
 
@@ -110,7 +110,8 @@ METABRAND
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### **Kannibal Wear - Future Tracing Division** [ACTIVE RESEARCH PHASE]
+### Kannibal Wear 
+#### Future Tracing Division [ACTIVE RESEARCH PHASE]**
 METABRAND
 
 > Stealth Techwear R&D - Clothing & Accessories. 
