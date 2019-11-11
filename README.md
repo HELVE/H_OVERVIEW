@@ -120,7 +120,7 @@ Alternative segmentation via AVR:
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### Kannibal Wear 
+### Kannibal Wear Metabrand
 #### Future Tracing Division [ACTIVE RESEARCH PHASE]**
 
 > Stealth Techwear R&D - Clothing & Accessories. 
@@ -135,7 +135,7 @@ Alternative segmentation via AVR:
 
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
-### **Cyberhippie** 
+### Cyberhippie Metabrand 
 #### Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
 
 ![](forest-A4.png)
