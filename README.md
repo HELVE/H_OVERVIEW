@@ -103,7 +103,7 @@ METABRAND
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### - **Kannibal Wear - Future Tracing Division** [ACTIVE RESEARCH PHASE]
+### **Kannibal Wear - Future Tracing Division** [ACTIVE RESEARCH PHASE]
 METABRAND
 
 > Stealth Techwear R&D - Clothing & Accessories. 
@@ -118,8 +118,8 @@ METABRAND
 
 [KANNIBAL WEAR OVERVIEW](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 
-### - **Cyberhippie - Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
-METABRAND
+### **Cyberhippie** 
+#### Interactive Community Entertainment Division** [INACTIVE/DORMANT PHASE]
 
 ![](forest-A4.png)
 
