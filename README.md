@@ -89,7 +89,10 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 - establish a safe space to experiment either solo or in a team
 
 > Transmedia Experience Division
+
 > Future Tracing Division
+
+> Interactive Community Entertainment Division
 
 ### Hitech Crime Metabrand
 #### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
