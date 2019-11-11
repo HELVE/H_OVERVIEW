@@ -88,7 +88,12 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 - make large scale creative technology interactive projects
 - establish a safe space to experiment either solo or in a team
 
-### - **Hitech Crime - Transmedia Experience Division** [ACTIVE PROTOTYPING PHASE]
+> Transmedia Experience Division
+> Future Tracing Division
+
+### - **Hitech Crime -  [ACTIVE PROTOTYPING PHASE]
+Transmedia Experience Division**
+
 METABRAND
 
 > Audio Futura Microlabel Universe
