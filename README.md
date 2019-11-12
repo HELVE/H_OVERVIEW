@@ -46,7 +46,6 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 ## Agency Source Code
 
-(* what humans value the most is escapism and convenience)
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
 * ENDLESSLY OPTIMIZE ENLIGHTENMENT INTO ORDER.
 * FALL IN LOVE WITH THE PROCESS.
@@ -69,7 +68,9 @@ Helve ᴀᴠʀ as a hyperbrand exisiting both in reality and in the narrative un
 
 All metabrands are implemented through creation of specific narrative transmedia universes. They are often based on an episodic/seasonal structure as well as rapid prototyping and behind the scenes approach ([Helve Logs - Live Documentation Series](https://github.com/HELVE/HELVELOGS)).
 
-Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth. Devalue the production quality, upvalue the output.
+What humans value the most is escapism and convenience. Helve AVR intends to give you a carefully designed mix of these in order to provide you with inspiration as well as something to identify with. Once a person identifies with the escapism of the universes Helve intends to provide you with mental and physical "weapons"/products/tools that enable one to grow. Hit them with escapism to stimulate productive and positive behaviours.
+
+Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth. "Devalue the production quality, upvalue the output."
 
 ![](mixer-offline.png)
 
