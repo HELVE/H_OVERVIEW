@@ -70,6 +70,8 @@ All metabrands are implemented through creation of specific narrative transmedia
 
 What humans value the most is escapism and convenience. Helve AVR intends to give you a carefully designed mix of these in order to provide you with inspiration as well as something to identify with. Once a person identifies with the escapism of the universes Helve intends to provide you with mental and physical "weapons"/products/tools that enable one to grow. Hit them with escapism to draw them in, then promote and stimulate productive and positive behaviours.
 
+*note: suck users in with escapism, keep them with providing value (they didin't expect?)*
+
 Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth. "Devalue the production quality, upvalue the output."
 
 ![](mixer-offline.png)
