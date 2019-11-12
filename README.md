@@ -46,6 +46,7 @@ Directive Protocols | Type [Lifeloop] | Notes
 
 ## Agency Source Code
 
+(* what humans value the most is escapism and convenience)
 * DIVE INTO THE CHAOS, COME OUT ENLIGHTENED.
 * ENDLESSLY OPTIMIZE ENLIGHTENMENT INTO ORDER.
 * FALL IN LOVE WITH THE PROCESS.
