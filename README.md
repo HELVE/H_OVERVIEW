@@ -7,15 +7,11 @@
 
 ---
 > "Change Reality" / "Visually hack the world"
-
 > "Agents of S.H.I.E.L.D. of Creative Industry"
-
 > "Art + Creative Technology + Business + Education/Self-improvement"
-
 ```
 Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon.
 ```
-
 > "It is a war between monotony and novelty, between stasis and creativity and in this war our human side for once is not destined to lose. - David Deutsch
 ---
 
