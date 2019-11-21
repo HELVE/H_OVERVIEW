@@ -15,6 +15,8 @@
 Etymological meaning of the word *helve* constitutes a handle of a tool or a weapon.
 ```
 > "It is a war between monotony and novelty, between stasis and creativity and in this war our human side for once is not destined to lose. - David Deutsch
+
+> I work for my employees to ensure they can keep fulfilling their personal core drives.
 ---
 
 REWORK THE INTRO
