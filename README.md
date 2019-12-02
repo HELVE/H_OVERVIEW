@@ -31,6 +31,8 @@ As a service Helve ᴀᴠʀ aims to provide a variety of expertise from video an
 
 Our entity uses Reinforced Trisight methodology - we base our live creative operations within 3 fields of creativity: Audio, Visual & Research/Interaction. Such specific division works in conjunction with a 'life purpose' project initially created for personal use called [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS) (function: clarifying ones core drives, discovering strengths and weaknesses, optimizing lifestyle for creativity) and is what makes the foundation for Helve ᴀᴠʀ's operational values. 
 
+**Simple Helve AVR ops description:** The base for it would be like this: Helve AVR is supposed to exist both in reality as a real service business providing visual tech but also in a semi-ficticious reality where I want to make content from creating a „special op” where my team will go on a rogue visual hacking of the world (going somewhere, setting up projections to completely change the environment) and showing the main drive of the agency to „visually hack the world”. Helve AVR is intended to have much less lore than Hitech Crime as it should be grounded in reality while HC is a pure fiction and written content.
+
 ## Helve Operative Guidelines - Directive Protocols
 
 Directive Protocols act as a basis for behavioral priorities and are a direct reflection of the values that creatives of Helve try to uplift for the sake of personal development and growth. Every Helve Operative in the field initiates and fulfills the protocols as needed or required after a self-realization session. 
