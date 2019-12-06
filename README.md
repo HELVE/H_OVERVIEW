@@ -76,6 +76,8 @@ What humans value the most is escapism and convenience. Helve AVR intends to giv
 
 Note: It is easy to create content when you are living the content. The truth costs you nothing, the lies mean effort. Show your truth. "Devalue the production quality, upvalue the output."
 
+Thank you so much for responding Neon, to make it as approachable as a concept as possible I am gathering like-minded individuals who would like to work on big scale art projects of visually hacking the world using creative tech. As a collective making our own public displays of augmented art, changing the reality in a way (it will start with small area rogue activities to temporary shift the enviros as a kind of semi-ficticious performance having effects IRL and livestream the activities/operations across various „cells” - haha - in a way that creates human anticipation and gives a fresh factor of unknown - nobody will know where and when but we will give hints as to upcoming „events”). To be more precise: establish the concept of mixed augmented visuals  for whole city segments and make an efficient mobile tech that will enable operatives to easily create the art on the spot as well, seemingly „hostile art takeover” as events to gain recognition and make the world an exhibition space.
+
 ![](mixer-offline.png)
 
 ## Quick Rephrasing
