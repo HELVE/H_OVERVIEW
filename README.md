@@ -3,7 +3,7 @@
 ![](helve-banner.png)
 
 <a name="orientation"></a>
-# HELVE ᴀᴠʀ | High Technology Creative Agency  
+# HELVE ᴀᴠʀ | Rogue High Technology Creative Agency  
 
 ---
 > "Change Reality" / "Visually hack the world"
