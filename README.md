@@ -114,7 +114,6 @@ Alternative segmentation via AVR:
 
 ### [Hitech Crime Metabrand](https://github.com/HITECHCRIME/HC_OVERVIEW)
 #### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
-[MAIN PROJECT REPO](https://github.com/HITECHCRIME/HC_OVERVIEW)
 
 > Audio Futura Microlabel Universe
 > Narrative Audiovisual Universe <- too broad
@@ -131,7 +130,7 @@ Alternative segmentation via AVR:
 
 [HITECH CRIME OVERVIEW](https://github.com/HITECHCRIME/HC_OVERVIEW).
 
-### Kannibal Wear Metabrand
+### [Kannibal Wear Metabrand](https://github.com/KANNIBALWEAR/K_OVERVIEW)
 #### Future Tracing Division [ACTIVE RESEARCH PHASE]**
 
 > Stealth Techwear R&D - Clothing & Accessories. 
