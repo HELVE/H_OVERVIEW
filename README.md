@@ -112,9 +112,9 @@ Alternative segmentation via AVR:
 
 - Research Division
 
-### Hitech Crime Metabrand
+### [Hitech Crime Metabrand](https://github.com/HITECHCRIME/HC_OVERVIEW)
 #### **Transmedia Experience Division [ACTIVE PROTOTYPING PHASE]**
-![MAIN PROJECT REPO](https://github.com/HITECHCRIME/HC_OVERVIEW)
+[MAIN PROJECT REPO](https://github.com/HITECHCRIME/HC_OVERVIEW)
 
 > Audio Futura Microlabel Universe
 > Narrative Audiovisual Universe <- too broad
