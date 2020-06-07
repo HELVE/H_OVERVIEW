@@ -101,12 +101,12 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 MY PURPOSE AS A PERSON_
 - Self-expression / Creativity
 - Enabling people to figure out and express their true selves
-- Gather likeminded people so they thrive together
+- Gather likeminded people so they thrive together >>> difference in polarity of purpose to achieve balance between personal and metabrand purpose
 
 MY PURPOSE AS METABRANDS_
 - Helve AVR: build a foundation to explore and experiment with new ways of communication and expression
 - Hitech Crime: educate via entertainment as a hook how to transform negativity into a positive drive for growth
-- Kannibal: give people ability to be separate/hidden
+- Kannibal: give people ability to be separate/hidden >>> difference in polarity of purpose to achieve balance between personal and metabrand purpose
 
 > Transmedia Experience Division
 
