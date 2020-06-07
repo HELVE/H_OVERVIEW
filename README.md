@@ -98,6 +98,16 @@ The overarching hyperbrand/metabrand. Crossing between reality, inspiration and 
 - make large scale creative technology interactive projects
 - establish a safe space to experiment either solo or in a team
 
+MY PURPOSE AS A PERSON_
+- Self-expression / Creativity
+- Enabling people to figure out and express their true selves
+- Gather likeminded people so they thrive together
+
+MY PURPOSE AS METABRANDS_
+- Helve AVR: build a foundation to explore and experiment with new ways of communication and expression
+- Hitech Crime: educate via entertainment as a hook how to transform negativity into a positive drive for growth
+- Kannibal: give people ability to be separate/hidden
+
 > Transmedia Experience Division
 
 > Future Tracing Division
