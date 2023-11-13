@@ -3,7 +3,7 @@
 ![](helve-banner.png)
 
 <a name="orientation"></a>
-# HELVE ᴀᴠʀ | Rogue High Technology Creative Agency  
+# HELVE ᴀᴠʀ | Rogue Creative Agency  
 
 ```
 Etymological meaning of the word *helve* constitutes "a handle of a tool or a weapon".
