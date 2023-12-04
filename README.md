@@ -4,11 +4,9 @@
 
 <a name="orientation"></a>
 # HELVE ᴀᴠʀ | Rogue Creative Agency  
-
 ```
-Etymological meaning of the word *helve* constitutes "a handle of a tool or a weapon".
+HACK THE GLOBAL REALITY
 ```
-
 ---
 > "Change Reality" / "Visually hack the world"
 
@@ -20,6 +18,10 @@ Etymological meaning of the word *helve* constitutes "a handle of a tool or a we
 
 > I work for my employees to ensure they can keep fulfilling their personal core drives.
 ---
+
+```
+Etymological meaning of the word *helve* constitutes "a handle of a tool or a weapon".
+```
 
 REWORK THE INTRO
 
